@@ -16,7 +16,7 @@ public class Program
 
         // Присвоение значений всем свойствам и вывод данных с помощью ToString()
         magazine.Title = "Еженедельный научный журнал";
-        magazine.Frequency = Frequency.Weekly;
+        magazine.Frequency = Frequency.Weekly; 
         magazine.ReleaseDate = new DateTime(2024, 12, 31);
         magazine.Circulation = 3000;
         Console.WriteLine(magazine.ToString());

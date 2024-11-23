@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Safner\\source\\repos\\TeamprojectTeam3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DCBFFD-2941-4F43-98D5-C1E63CC15340}|TeamprojectTeam3\\TeamprojectTeam3.csproj|c:\\users\\safner\\source\\repos\\teamprojectteam3\\teamprojectteam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DCBFFD-2941-4F43-98D5-C1E63CC15340}|TeamprojectTeam3\\TeamprojectTeam3.csproj|solutionrelative:teamprojectteam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Safner\\source\\repos\\TeamprojectTeam3\\TeamprojectTeam3\\Program.cs",
+              "RelativeDocumentMoniker": "TeamprojectTeam3\\Program.cs",
+              "ToolTip": "C:\\Users\\Safner\\source\\repos\\TeamprojectTeam3\\TeamprojectTeam3\\Program.cs*",
+              "RelativeToolTip": "TeamprojectTeam3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:29:29.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

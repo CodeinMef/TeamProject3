@@ -1,0 +1,4 @@
+C:\Users\Safner\source\repos\TeamprojectTeam3\TeamprojectTeam3\obj\Debug\net8.0\TeamprojectTeam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safner\source\repos\TeamprojectTeam3\TeamprojectTeam3\obj\Debug\net8.0\TeamprojectTeam3.AssemblyInfoInputs.cache
+C:\Users\Safner\source\repos\TeamprojectTeam3\TeamprojectTeam3\obj\Debug\net8.0\TeamprojectTeam3.AssemblyInfo.cs
+C:\Users\Safner\source\repos\TeamprojectTeam3\TeamprojectTeam3\obj\Debug\net8.0\TeamprojectTeam3.csproj.CoreCompileInputs.cache
